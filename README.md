@@ -14,6 +14,8 @@ Principais funções do app.
   - Folgas
   - Ferias
   - Reembolso
+
+Requisitos: Android 6 ou superior
   
 ![Oponto](https://user-images.githubusercontent.com/43770191/104137684-6080c000-537d-11eb-9fed-4ec794001a85.jpeg)
 ![Oponto6](https://user-images.githubusercontent.com/43770191/104137685-61b1ed00-537d-11eb-8a0d-b748c3bc038c.jpeg)
