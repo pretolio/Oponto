@@ -1,7 +1,7 @@
 # Oponto
 App para registro de ponto, possibilitando o funcionario realizar suas marcações de ponto online.
 
-usuario: teste@oponto.com
+login: teste@oponto.com
 senha: 123456
 
 Principais funções do app.
